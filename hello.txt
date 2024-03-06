@@ -1,1 +1,2 @@
 Hello, Git world!
+in branch2
